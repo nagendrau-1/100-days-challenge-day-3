@@ -1,6 +1,7 @@
 100 Days of Hacking – Day 3
 
 Academy : SKILLSUPRISE
+
 Mentor: Manojkumar Koravangi
 
 Objective
