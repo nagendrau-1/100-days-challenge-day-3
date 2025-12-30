@@ -1,0 +1,30 @@
+100 Days of Hacking – Day 3
+Objective
+To understand how WHOIS lookups are used as an initial step in OSINT (Open-Source Intelligence) investigations, especially when analyzing suspicious or scam websites.
+  Academy : SKILLSUPRISE
+    Mentor : Manoj kumar Koravangi
+Scenario
+A website claiming to be a crypto investment platform was promoting unrealistic returns, which raised immediate red flags.
+Instead of guessing or jumping to conclusions, I performed a WHOIS lookup to gather verifiable information about the domain.
+Methodology
+Using WHOIS, I collected the following details:
+•	Domain registrar
+•	Hosting provider
+•	Domain registration date
+•	Domain expiry date
+•	Public contact information
+This information helps establish domain legitimacy and identify patterns linked to malicious activity.
+Key Learnings
+•	WHOIS is a starting point for OSINT investigations
+•	Newly registered domains are often associated with scams
+•	Registrar and hosting details can help link multiple scam websites
+•	WHOIS data supports digital evidence preservation
+•	Simple reconnaissance can uncover valuable intelligence
+Tools Used
+•	whois (CLI / online WHOIS services)
+•	Web browser
+•	OSINT mindset
+Disclaimer
+This project is strictly for educational purposes.
+No unauthorized access, exploitation, or illegal activity was performed.
+ #100DaysOfHacking #Day3 #CyberSecurity #OSINT #WHOIS #ThreatIntelligence #CyberCrime #EthicalHacking #InfoSec #LearningJourney
